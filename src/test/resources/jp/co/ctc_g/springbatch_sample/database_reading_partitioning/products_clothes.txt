@@ -1,0 +1,8 @@
+20,clothes0,clothes
+21,clothes1,clothes
+22,clothes2,clothes
+23,clothes3,clothes
+24,clothes4,clothes
+25,clothes5,clothes
+26,clothes6,clothes
+27,clothes7,clothes
